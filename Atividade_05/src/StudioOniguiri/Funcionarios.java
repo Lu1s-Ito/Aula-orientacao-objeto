@@ -7,14 +7,19 @@ package StudioOniguiri;
         //define os atributos dessa classe
         private String nome;
         private double salario;
+        private int idade;
 
             //Método de acesso
             public String getNome() {
                 return nome;
             }
-
+            
             public double getSalario() {
                 return salario;
+            }
+            
+            public int getIdade() {
+                return idade;
             }
 
                 //Método de valor
@@ -26,7 +31,10 @@ package StudioOniguiri;
                     this.salario = salario;
                 }
                 
-                
+                public void setIdade(int idade) {
+                    this.idade = idade;
+                }
+                                
                 //reescrita de método
                 public double BonusSalario(){
                     return this.salario * 0.2;
@@ -36,4 +44,5 @@ package StudioOniguiri;
                 public double TotalSalario(){
                     return this.salario + BonusSalario();
                 }
+
     }
