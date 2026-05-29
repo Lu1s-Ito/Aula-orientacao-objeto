@@ -46,9 +46,10 @@ public class PraticaVetor {
         
         //inserir mais um vetor
         int[] novoVetor = new int[numeros.length + 2];
+        
         for (int i = 0, j = 0; i < novoVetor.length; i++) {
             
-            if (i == 4){
+            if (i == 4) {
                 novoVetor[i] = 55; // Insere o 55 na 3 posição
             }
             
@@ -63,6 +64,7 @@ public class PraticaVetor {
         
         //remove o utimo indice
         int[] removeVetor = new int[novoVetor.length -1];
+        
         for (int i = 0, j = 0; i < removeVetor.length; i++)
             
             if (i != 12) {
