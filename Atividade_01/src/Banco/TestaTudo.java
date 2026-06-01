@@ -1,5 +1,5 @@
 //pacote que vamos usar
-package Atividade;
+package Banco;
 
 //classe de Teste Tudo
 public class TestaTudo {

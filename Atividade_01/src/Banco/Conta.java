@@ -1,5 +1,5 @@
 //pacote que vamos usar
-package Atividade;
+package Banco;
 
 //classe da Conta
 public class Conta {

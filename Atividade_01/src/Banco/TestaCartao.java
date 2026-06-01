@@ -1,5 +1,5 @@
 //pacote que vamos usar
-package Atividade;
+package Banco;
 
 //classe de teste do cartão
 public class TestaCartao {

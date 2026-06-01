@@ -1,5 +1,5 @@
 //pacote que vamos usar
-package Atividade;
+package Banco;
 
 //classe de cartão de credito
 public class CartaoDeCredito {

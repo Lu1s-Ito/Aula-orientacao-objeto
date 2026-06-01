@@ -1,5 +1,5 @@
 //pacote que a atividade sera usado
-package Atividade;
+package Banco;
 
 
 //á classe cliente que sera usada
