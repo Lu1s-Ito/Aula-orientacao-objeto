@@ -22,7 +22,7 @@ public class LinkedLista {
         frutas.add(2, "Cereja"); //adiciona na posição 2 o item
         
         //imprime na tela
-        System.out.println("Frutas ->" + frutas); //imprime todas as frutas
-        System.out.println("Fruta ->" + frutas.get(1)); //immprime uma fruta especifica
+        System.out.println("Frutas -> " + frutas); //imprime todas as frutas
+        System.out.println("Fruta -> " + frutas.get(1)); //immprime uma fruta especifica
     }
 }
