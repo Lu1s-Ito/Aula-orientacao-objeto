@@ -1,5 +1,5 @@
 //Pacote que será trabalhado
-package AtributoGlobal;
+package LogicasJava;
 
 //classe a ser trabalhada
 public class  TestaConfiguracao{
@@ -10,6 +10,6 @@ public class  TestaConfiguracao{
         //imprime os metodos
         System.out.println(Configuracao.getPI());  //imprime o metodo de PI
         
-        System.out.println(Configuracao.getVERSAO());  //imprime o metodo de VERSAO 
+        System.out.println(Configuracao.getVERSAO());  //imprime o metodo de VERSAO
     }
 }

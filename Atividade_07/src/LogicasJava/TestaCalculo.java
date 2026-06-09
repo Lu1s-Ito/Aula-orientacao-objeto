@@ -1,5 +1,5 @@
 //Pacote que será trabalhado
-package AtributoGlobal;
+package LogicasJava;
 
 //classe a ser trabalhada
 public class  TestaCalculo{
@@ -13,7 +13,7 @@ public class  TestaCalculo{
         int resultadoSoma = c.somar(5, 7);
         
         
-        System.out.println("Nadashi: " + c.resultado);
+        System.out.println("Nadashi: " + c.subtracao());
         System.out.println("Ytadashi: " + resultadoSoma);
     }
     
